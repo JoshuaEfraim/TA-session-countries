@@ -1,0 +1,195 @@
+Country|Capital|Code|Code3|Dialing|Timezone|Currency
+Afghanistan|Kabul|AF|AFG|93|Asia/Kabul|Afghan afghani
+Albania|Tirana|AL|ALB|355|Europe/Tirane|Albanian lek
+Algeria|Algiers|DZ|DZA|213|Africa/Algiers|Algerian dinar
+Andorra|Andorra la Vella|AD|AND|376|Europe/Andorra|Euro
+Angola|Luanda|AO|AGO|244|Africa/Luanda|Angolan kwanza
+Antigua and Barbuda|Saint John's|AG|ATG|1-268|America/Antigua|East Caribbean dollar
+Argentina|Buenos Aires|AR|ARG|54|America/Argentina/Buenos_Aires|Argentine peso
+Armenia|Yerevan|AM|ARM|374|Asia/Yerevan|Armenian dram
+Australia|Canberra|AU|AUS|61|Australia/Sydney|Australian dollar
+Austria|Vienna|AT|AUT|43|Europe/Vienna|Euro
+Azerbaijan|Baku|AZ|AZE|994|Asia/Baku|Azerbaijani manat
+Bahamas|Nassau|BS|BHS|1-242|America/Nassau|Bahamian dollar
+Bahrain|Manama|BH|BHR|973|Asia/Bahrain|Bahraini dinar
+Bangladesh|Dhaka|BD|BGD|880|Asia/Dhaka|Bangladeshi taka
+Barbados|Bridgetown|BB|BRB|1-246|America/Barbados|Barbadian dollar
+Belarus|Minsk|BY|BLR|375|Europe/Minsk|Belarusian ruble
+Belgium|Brussels|BE|BEL|32|Europe/Brussels|Euro
+Belize|Belmopan|BZ|BLZ|501|America/Belize|Belize dollar
+Benin|Porto-Novo|BJ|BEN|229|Africa/Porto-Novo|West African CFA franc
+Bhutan|Thimphu|BT|BTN|975|Asia/Thimphu|Bhutanese ngultrum
+Bolivia|Sucre|BO|BOL|591|America/La_Paz|Bolivian boliviano
+Bosnia and Herzegovina|Sarajevo|BA|BIH|387|Europe/Sarajevo|Bosnia and Herzegovina convertible mark
+Botswana|Gaborone|BW|BWA|267|Africa/Gaborone|Botswana pula
+Brazil|Brasília|BR|BRA|55|America/Sao_Paulo|Brazilian real
+Brunei|Bandar Seri Begawan|BN|BRN|673|Asia/Brunei|Brunei dollar
+Bulgaria|Sofia|BG|BGR|359|Europe/Sofia|Bulgarian lev
+Burkina Faso|Ouagadougou|BF|BFA|226|Africa/Ouagadougou|West African CFA franc
+Burundi|Bujumbura|BI|BDI|257|Africa/Bujumbura|Burundian franc
+Cabo Verde|Praia|CV|CPV|238|Atlantic/Cape_Verde|Cape Verdean escudo
+Cambodia|Phnom Penh|KH|KHM|855|Asia/Phnom_Penh|Cambodian riel
+Cameroon|Yaoundé|CM|CMR|237|Africa/Douala|Central African CFA franc
+Canada|Ottawa|CA|CAN|1|America/Toronto|Canadian dollar
+Central African Republic|Bangui|CF|CAF|236|Africa/Bangui|Central African CFA franc
+Chad|N'Djamena|TD|TCD|235|Africa/Ndjamena|Central African CFA franc
+Chile|Santiago|CL|CHL|56|America/Santiago|Chilean peso
+China|Beijing|CN|CHN|86|Asia/Shanghai|Renminbi
+Colombia|Bogotá|CO|COL|57|America/Bogota|Colombian peso
+Comoros|Moroni|KM|COM|269|Indian/Comoro|Comorian franc
+Congo (Congo-Brazzaville)|Brazzaville|CG|COG|242|Africa/Brazzaville|Central African CFA franc
+Congo (Congo-Kinshasa)|Kinshasa|CD|COD|243|Africa/Kinshasa|Congolese franc
+Costa Rica|San José|CR|CRI|506|America/Costa_Rica|Costa Rican colón
+Croatia|Zagreb|HR|HRV|385|Europe/Zagreb|Croatian kuna
+Cuba|Havana|CU|CUB|53|America/Havana|Cuban peso
+Cyprus|Nicosia|CY|CYP|357|Asia/Nicosia|Euro
+Czechia (Czech Republic)|Prague|CZ|CZE|420|Europe/Prague|Czech koruna
+Denmark|Copenhagen|DK|DNK|45|Europe/Copenhagen|Danish krone
+Djibouti|Djibouti|DJ|DJI|253|Africa/Djibouti|Djiboutian franc
+Dominica|Roseau|DM|DMA|1-767|America/Dominica|East Caribbean dollar
+Dominican Republic|Santo Domingo|DO|DOM|1-809, 1-829, 1-849|America/Santo_Domingo|Dominican peso
+Ecuador|Quito|EC|ECU|593|America/Guayaquil|United States dollar
+Egypt|Cairo|EG|EGY|20|Africa/Cairo|Egyptian pound
+El Salvador|San Salvador|SV|SLV|503|America/El_Salvador|United States dollar
+Equatorial Guinea|Malabo|GQ|GNQ|240|Africa/Malabo|Central African CFA franc
+Eritrea|Asmara|ER|ERI|291|Africa/Asmara|Eritrean nakfa
+Estonia|Tallinn|EE|EST|372|Europe/Tallinn|Euro
+Eswatini (fmr. "Swaziland")|Mbabane|SZ|SWZ|268|Africa/Mbabane|Swazi lilangeni
+Ethiopia|Addis Ababa|ET|ETH|251|Africa/Addis_Ababa|Ethiopian birr
+Fiji|Suva|FJ|FJI|679|Pacific/Fiji|Fijian dollar
+Finland|Helsinki|FI|FIN|358|Europe/Helsinki|Euro
+France|Paris|FR|FRA|33|Europe/Paris|Euro
+Gabon|Libreville|GA|GAB|241|Africa/Libreville|Central African CFA franc
+Gambia|Banjul|GM|GMB|220|Africa/Banjul|Gambian dalasi
+Georgia|Tbilisi|GE|GEO|995|Asia/Tbilisi|Georgian lari
+Germany|Berlin|DE|DEU|49|Europe/Berlin|Euro
+Ghana|Accra|GH|GHA|233|Africa/Accra|Ghanaian cedi
+Greece|Athens|GR|GRC|30|Europe/Athens|Euro
+Grenada|St. George's|GD|GRD|1-473|America/Grenada|East Caribbean dollar
+Guatemala|Guatemala City|GT|GTM|502|America/Guatemala|Guatemalan quetzal
+Guinea|Conakry|GN|GIN|224|Africa/Conakry|Guinean franc
+Guinea-Bissau|Bissau|GW|GNB|245|Africa/Bissau|West African CFA franc
+Guyana|Georgetown|GY|GUY|592|America/Guyana|Guyanese dollar
+Haiti|Port-au-Prince|HT|HTI|509|America/Port-au-Prince|Haitian gourde
+Honduras|Tegucigalpa|HN|HND|504|America/Tegucigalpa|Honduran lempira
+Hungary|Budapest|HU|HUN|36|Europe/Budapest|Hungarian forint
+Iceland|Reykjavik|IS|ISL|354|Atlantic/Reykjavik|Icelandic króna
+India|New Delhi|IN|IND|91|Asia/Kolkata|Indian rupee
+Indonesia|Jakarta|ID|IDN|62|Asia/Jakarta|Indonesian rupiah
+Iran|Tehran|IR|IRN|98|Asia/Tehran|Iranian rial
+Iraq|Baghdad|IQ|IRQ|964|Asia/Baghdad|Iraqi dinar
+Ireland|Dublin|IE|IRL|353|Europe/Dublin|Euro
+Israel|Jerusalem|IL|ISR|972|Asia/Jerusalem|Israeli new shekel
+Italy|Rome|IT|ITA|39|Europe/Rome|Euro
+Jamaica|Kingston|JM|JAM|1-876|America/Jamaica|Jamaican dollar
+Japan|Tokyo|JP|JPN|81|Asia/Tokyo|Japanese yen
+Jordan|Amman|JO|JOR|962|Asia/Amman|Jordanian dinar
+Kazakhstan|Nur-Sultan|KZ|KAZ|7|Asia/Almaty|Kazakhstani tenge
+Kenya|Nairobi|KE|KEN|254|Africa/Nairobi|Kenyan shilling
+Kiribati|Tarawa|KI|KIR|686|Pacific/Tarawa|Kiribati dollar
+Kuwait|Kuwait City|KW|KWT|965|Asia/Kuwait|Kuwaiti dinar
+Kyrgyzstan|Bishkek|KG|KGZ|996|Asia/Bishkek|Kyrgyzstani som
+Laos|Vientiane|LA|LAO|856|Asia/Vientiane|Lao kip
+Latvia|Riga|LV|LVA|371|Europe/Riga|Euro
+Lebanon|Beirut|LB|LBN|961|Asia/Beirut|Lebanese pound
+Lesotho|Maseru|LS|LSO|266|Africa/Maseru|Lesotho loti
+Liberia|Monrovia|LR|LBR|231|Africa/Monrovia|Liberian dollar
+Libya|Tripoli|LY|LBY|218|Africa/Tripoli|Libyan dinar
+Liechtenstein|Vaduz|LI|LIE|423|Europe/Vaduz|Swiss franc
+Lithuania|Vilnius|LT|LTU|370|Europe/Vilnius|Euro
+Luxembourg|Luxembourg City|LU|LUX|352|Europe/Luxembourg|Euro
+Madagascar|Antananarivo|MG|MDG|261|Indian/Antananarivo|Malagasy ariary
+Malawi|Lilongwe|MW|MWI|265|Africa/Blantyre|Malawian kwacha
+Malaysia|Kuala Lumpur|MY|MYS|60|Asia/Kuala_Lumpur|Malaysian ringgit
+Maldives|Male|MV|MDV|960|Indian/Maldives|Maldivian rufiyaa
+Mali|Bamako|ML|MLI|223|Africa/Bamako|West African CFA franc
+Malta|Valletta|MT|MLT|356|Europe/Malta|Euro
+Marshall Islands|Majuro|MH|MHL|692|Pacific/Majuro|United States dollar
+Mauritania|Nouakchott|MR|MRT|222|Africa/Nouakchott|Mauritanian ouguiya
+Mauritius|Port Louis|MU|MUS|230|Indian/Mauritius|Mauritian rupee
+Mexico|Mexico City|MX|MEX|52|America/Mexico_City|Mexican peso
+Micronesia|Palikir|FM|FSM|691|Pacific/Chuuk|United States dollar
+Moldova|Chisinau|MD|MDA|373|Europe/Chisinau|Moldovan leu
+Monaco|Monaco|MC|MCO|377|Europe/Monaco|Euro
+Mongolia|Ulaanbaatar|MN|MNG|976|Asia/Ulaanbaatar|Mongolian tögrög
+Montenegro|Podgorica|ME|MNE|382|Europe/Podgorica|Euro
+Morocco|Rabat|MA|MAR|212|Africa/Casablanca|Moroccan dirham
+Mozambique|Maputo|MZ|MOZ|258|Africa/Maputo|Mozambican metical
+Myanmar (formerly Burma)|Naypyidaw|MM|MMR|95|Asia/Yangon|Burmese kyat
+Namibia|Windhoek|NA|NAM|264|Africa/Windhoek|Namibian dollar
+Nauru|Yaren|NR|NRU|674|Pacific/Nauru|Australian dollar
+Nepal|Kathmandu|NP|NPL|977|Asia/Kathmandu|Nepalese rupee
+Netherlands|Amsterdam|NL|NLD|31|Europe/Amsterdam|Euro
+New Zealand|Wellington|NZ|NZL|64|Pacific/Auckland|New Zealand dollar
+Nicaragua|Managua|NI|NIC|505|America/Managua|Nicaraguan
+Niger|Niamey|NE|NER|227|Africa/Niamey|West African CFA franc
+Nigeria|Abuja|NG|NGA|234|Africa/Lagos|Nigerian naira
+North Korea|Pyongyang|KP|PRK|850|Asia/Pyongyang|North Korean won
+North Macedonia|Skopje|MK|MKA|389|Europe/Skopje|Macedonian denar
+Norway|Oslo|NO|NOR|47|Europe/Oslo|Norwegian krone
+Oman|Muscat|OM|OMN|968|Asia/Muscat|Omani rial
+Pakistan|Islamabad|PK|PAK|92|Asia/Karachi|Pakistani rupee
+Palau|Ngerulmud|PW|PLW|680|Pacific/Palau|United States dollar
+Panama|Panama City|PA|PAN|507|America/Panama|Panamanian balboa
+Papua New Guinea|Port Moresby|PG|PNG|675|Pacific/Port_Moresby|Papua New Guinean kina
+Paraguay|Asunción|PY|PRY|595|America/Asuncion|Paraguayan guaraní
+Peru|Lima|PE|PER|51|America/Lima|Peruvian sol
+Philippines|Manila|PH|PHL|63|Asia/Manila|Philippine peso
+Poland|Warsaw|PL|POL|48|Europe/Warsaw|Polish złoty
+Portugal|Lisbon|PT|PRT|351|Europe/Lisbon|Euro
+Qatar|Doha|QA|QAT|974|Asia/Qatar|Qatari riyal
+Romania|Bucharest|RO|ROU|40|Europe/Bucharest|Romanian leu
+Russia|Moscow|RU|RUS|7|Europe/Moscow|Russian ruble
+Rwanda|Kigali|RW|RWA|250|Africa/Kigali|Rwandan franc
+Saint Kitts and Nevis|Basseterre|KN|KNA|1-869|America/St_Kitts|East Caribbean dollar
+Saint Lucia|Castries|LC|LCA|1-758|America/St_Lucia|East Caribbean dollar
+Saint Vincent and the Grenadines|Kingstown|VC|VCT|1-784|America/St_Vincent|East Caribbean dollar
+Samoa|Apia|WS|WSM|685|Pacific/Apia|Samoan tālā
+San Marino|San Marino|SM|SMR|378|Europe/San_Marino|Euro
+Sao Tome and Principe|São Tome|ST|STP|239|Africa/Sao_Tome|São Tomé and Principe dobra
+Saudi Arabia|Riyadh|SA|SAU|966|Asia/Riyadh|Saudi riyal
+Senegal|Dakar|SN|SEN|221|Africa/Dakar|West African CFA franc
+Serbia|Belgrade|RS|SRB|381|Europe/Belgrade|Serbian dinar
+Seychelles|Victoria|SC|SYC|248|Indian/Mahe|Seychellois rupee
+Sierra Leone|Freetown|SL|SLE|232|Africa/Freetown|Sierra Leonean leone
+Singapore|Singapore|SG|SGP|65|Asia/Singapore|Singapore dollar
+Slovakia|Bratislava|SK|SVK|421|Europe/Bratislava|Euro
+Slovenia|Ljubljana|SI|SVN|386|Europe/Ljubljana|Euro
+Solomon Islands|Honiara|SB|SLB|677|Pacific/Honiara|Solomon Islands dollar
+Somalia|Mogadishu|SO|SOM|252|Africa/Mogadishu|Somali shilling
+South Africa|Pretoria|ZA|ZAF|27|Africa/Johannesburg|South African rand
+South Korea|Seoul|KR|KOR|82|Asia/Seoul|South Korean won
+South Sudan|Juba|SS|SSD|211|Africa/Juba|South Sudanese pound
+Spain|Madrid|ES|ESP|34|Europe/Madrid|Euro
+Sri Lanka|Colombo|LK|LKA|94|Asia/Colombo|Sri Lankan rupee
+Sudan|Khartoum|SD|SDN|249|Africa/Khartoum|Sudanese pound
+Suriname|Paramaribo|SR|SUR|597|America/Paramaribo|Surinamese dollar
+Sweden|Stockholm|SE|SWE|46|Europe/Stockholm|Swedish krona
+Switzerland|Bern|CH|CHE|41|Europe/Zurich|Swiss franc
+Syria|Damascus|SY|SYR|963|Asia/Damascus|Syrian pound
+Taiwan|Taipei|TW|TWN|886|Asia/Taipei|New Taiwan dollar
+Tajikistan|Dushanbe|TJ|TJK|992|Asia/Dushanbe|Tajikistani somoni
+Tanzania|Dodoma|TZ|TZA|255|Africa/Dar_es_Salaam|Tanzanian shilling
+Thailand|Bangkok|TH|THA|66|Asia/Bangkok|Thai baht
+Timor-Leste|Dili|TL|TLS|670|Asia/Dili|United States dollar
+Togo|Lome|TG|TGO|228|Africa/Lome|West African CFA franc
+Tonga|Nuku'alofa|TO|TON|676|Pacific/Tongatapu|Tongan pa'anga
+Trinidad and Tobago|Port of Spain|TT|TTO|1-868|America/Port_of_Spain|Trinidad and Tobago dollar
+Tunisia|Tunis|TN|TUN|216|Africa/Tunis|Tunisian dinar
+Turkey|Ankara|TR|TUR|90|Europe/Istanbul|Turkish lira
+Turkmenistan|Ashgabat|TM|TKM|993|Asia/Ashgabat|Turkmenistan manat
+Tuvalu|Funafuti|TV|TUV|688|Pacific/Funafuti|Tuvaluan dollar
+Uganda|Kampala|UG|UGA|256|Africa/Kampala|Ugandan shilling
+Ukraine|Kyiv|UA|UKR|380|Europe/Kiev|Ukrainian hryvnia
+United Arab Emirates|Abu Dhabi|AE|ARE|971|Asia/Dubai|United Arab Emirates dirham
+United Kingdom|London|GB|GBR|44|Europe/London|British pound sterling
+United States|Washington, D.C.|US|USA|1|America/New_York|United States dollar
+Uruguay|Montevideo|UY|URY|598|America/Montevideo|Uruguayan peso
+Uzbekistan|Tashkent|UZ|UZB|998|Asia/Tashkent|Uzbekistani so'm
+Vanuatu|Port Vila|VU|VUT|678|Pacific/Efate|Vanuatu vatu
+Vatican City|Vatican City|VA|VAT|379|Europe/Vatican|Euro
+Venezuela|Caracas|VE|VEN|58|America/Caracas|Venezuelan bolívar
+Vietnam|Hanoi|VN|VNM|84|Asia/Ho_Chi_Minh|Vietnamese đồng
+Yemen|Sana'a|YE|YEM|967|Asia/Aden|Yemeni rial
+Zambia|Lusaka|ZM|ZMB|260|Africa/Lusaka|Zambian kwacha
+Zimbabwe|Harare|ZW|ZWE|263|Africa/Harare|Zimbabwean dollar
